@@ -1,6 +1,6 @@
 title: Khaleel's homepage
 description: Bookmark this to keep an eye on my project updates!
 # Build settings
-theme: ekyll-theme-minimal
+theme: jekyll-theme-minimal
 # plugins:
 #  - jekyll-feed
